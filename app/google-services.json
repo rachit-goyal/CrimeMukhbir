@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "460924422189",
+    "firebase_url": "https://taj-news-8d6ed.firebaseio.com",
+    "project_id": "taj-news-8d6ed",
+    "storage_bucket": "taj-news-8d6ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460924422189:android:96e403a2b2a4c8810710a4",
+        "android_client_info": {
+          "package_name": "in.aaaonlineservice.crimemukhbir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460924422189-hhuc3dug63tnpk5s5u9tks9jrpa2rgpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3evDbJBKMriAq7cU1b68O2XVARqitCCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460924422189-hhuc3dug63tnpk5s5u9tks9jrpa2rgpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460924422189:android:8b5800072e997c510710a4",
+        "android_client_info": {
+          "package_name": "in.aaaonlineservices.tajnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460924422189-psqdbao7b5nui0gbh0bq1hlgk2tgr0jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.aaaonlineservices.tajnews",
+            "certificate_hash": "281afe6ed3e8e8146cc7882c694c57c957201138"
+          }
+        },
+        {
+          "client_id": "460924422189-hhuc3dug63tnpk5s5u9tks9jrpa2rgpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3evDbJBKMriAq7cU1b68O2XVARqitCCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460924422189-hhuc3dug63tnpk5s5u9tks9jrpa2rgpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
